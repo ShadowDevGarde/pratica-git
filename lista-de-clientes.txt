@@ -1,0 +1,5 @@
+Lista de Clientes
+
+Jose - Comprou HD.
+Antonio - comprou Gabinete.
+Arthur - comprou SSD512g.
