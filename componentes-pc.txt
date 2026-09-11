@@ -2,3 +2,7 @@ temos essas pecas
 hd 512gb
 Gabinete
 ssd 512
+monitor 165hz
+fonte 850 gold watts 
+rtz 5060
+cooler 240mm
