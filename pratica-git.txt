@@ -3,3 +3,5 @@ Arquivo de trino de Git.
 Jhonny: primeira mensagem.
 wellington 
 
+Itens para venda:
+GPU 5090 12.500R$.
