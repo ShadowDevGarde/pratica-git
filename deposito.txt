@@ -3,3 +3,5 @@ mouses
 telas 
 placas de videos
 gabinetes
+fone de ouvido
+controle
