@@ -7,3 +7,4 @@ fone de ouvido
 controle
 memoria
 mesa
+placa 8070
