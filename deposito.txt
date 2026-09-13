@@ -1,0 +1,5 @@
+teclados
+mouses
+telas 
+placas de videos
+gabinetes
