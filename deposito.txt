@@ -5,3 +5,4 @@ placas de videos
 gabinetes
 fone de ouvido
 controle
+memoria
