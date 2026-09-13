@@ -6,3 +6,4 @@ gabinetes
 fone de ouvido
 controle
 memoria
+placa 8070
