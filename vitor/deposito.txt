@@ -8,3 +8,7 @@ controle
 memoria
 mesa
 placa 8070
+ps5
+rx 5600xt
+pc
+gta 6
