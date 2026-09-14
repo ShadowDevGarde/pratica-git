@@ -1,0 +1,17 @@
+Valor bruto acumulado após vendas de peças 
+
+Jose - Comprou HD - R$: 629,00
+Antonio - comprou Gabinete - R$: 239,90 
+Arthur - comprou SSD512g - R$: 769,90
+Carlos - comprou monitor 165hz - R$: 469,90
+Ana - comprou fonte 850 gold watts - R$: 480,90
+Carolina - comprou rtx 5060 - R$: 3.300,99 
+Thiago - comprou cooler 240mm - R$: 299,90
+Rhamos - Pediu 5090 - R$ 51.569,99
+Rhamos - Pediu 5090a - R$ 51.569,99
+Thaylor - quer 4070 - Pedido ainda nao efetuado
+Thiago - quer Pc gamer - Pedido ainda nao efetuado
+
+Valor bruto acumulado: 109.330,47
+
+
