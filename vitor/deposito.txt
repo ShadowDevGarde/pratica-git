@@ -1,14 +1,16 @@
-teclados
-mouses
-telas 
-placas de videos
-gabinetes
-fone de ouvido
-controle
-memoria
-mesa
-placa 8070
-ps5
-rx 5600xt
-pc
-gta 6
+teclados R$250
+mouses R$200
+telas R$650-999
+placas de videos R$1.200-4.500
+gabinetes R$230-1.200
+fone de ouvido R$150-250
+controle R$140-250
+memoria R$499-1.300
+mesa R$300
+rtx 5090 R$31.123
+ps5 R$4.000
+rx 5600xt R$1.200
+pc R$3.000-4.999
+gta 6 R$700
+suporte articulado R$100-150
+caixa de som R$150-1200
