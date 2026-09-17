@@ -14,3 +14,5 @@ pc R$3.000-4.999
 gta 6 R$700
 suporte articulado R$100-150
 caixa de som R$150-1200
+samsung s23 R$3.230
+iphone 16 R$4.899
