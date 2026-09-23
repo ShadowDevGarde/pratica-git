@@ -6,3 +6,7 @@ monitor 165hz
 fonte 850 gold watts 
 rtz 5060
 cooler 240mm
+hd externo 256gb
+celuar
+carregador de not e fontes de comutador
+cabo hdmi
