@@ -1,5 +1,5 @@
 temos essas pecas
-hd 512gb
+hd 512gb 
 Gabinete
 ssd 512
 monitor 165hz
